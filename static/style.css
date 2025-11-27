@@ -1,0 +1,5 @@
+body { background:#f7f9fb }
+.preview-area { position:relative; min-height:260px; border:1px dashed #ddd; padding:8px; background:white }
+#overlayCanvas { position:absolute; left:8px; top:8px; pointer-events:none }
+#result { white-space:pre-wrap; font-family:Menlo,monospace }
+.card-title { margin-bottom:12px }
